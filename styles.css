@@ -74,6 +74,10 @@ section {
     }
 }
 
+#contact {
+    background-color: #a5be36;
+}
+
 #about h2 {
     font-size: 2.5rem;
 }
@@ -86,10 +90,14 @@ section {
     font-size: 1.2rem;
 }
 
+#contact p {
+    font-size: 1.2rem;
+}
+
 footer {
     text-align: center;
     padding: 1rem 0;
-    background-color: #6fdeecf5;
+    background-color: #c8e2e6f5;
     color: #0c0b0b;
     /* Remove fixed positioning to make footer moveable */
     position: static;
